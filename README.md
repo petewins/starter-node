@@ -15,8 +15,8 @@ This project is a simple Node.js application that includes basic arithmetic func
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/petewins/starter-node
+    cd starter-node
     ```
 
 2. Install dependencies:
