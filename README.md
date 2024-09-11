@@ -1,5 +1,3 @@
-# Project Name
-
 This project is a simple Node.js application that includes basic arithmetic functions, a greeting generator, and a function to fetch gender information from the Genderize API. The project is configured with Babel for transpiling, ESLint for linting, and Jest for testing.
 
 ## Table of Contents
