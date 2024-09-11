@@ -44,8 +44,8 @@ export function generateGreeting(name, gender) {
 
 // Run the function on load
 async function run() {
-	const name = "John";
-	const gender = await getGender("John");
+	const name = "Jane";
+	const gender = await getGender(name);
 	const greeting = generateGreeting(name, gender);
 	console.log(greeting);
 }
